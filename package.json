@@ -1,0 +1,27 @@
+{
+  "name": "untitled9",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vladlen-vozhzhaev/js_2#readme",
+  "bugs": {
+    "url": "https://github.com/vladlen-vozhzhaev/js_2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladlen-vozhzhaev/js_2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "busboy": "^1.6.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}
